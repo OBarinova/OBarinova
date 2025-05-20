@@ -1,16 +1,19 @@
-## Hi there, my name is Olga Barinova
+## Hi there, I'm Olga  
+(junior system analyst)
+## Skills  
+- user requirements analysis (Use Case, User Story)
+- process modeling in BPMN and UML notations
+- data modeling
+- Miro
+- basic SQL
+- draw.io
+- Figma
 
-<!--
-**OBarinova/OBarinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently learning:  
+- advanced SQL
+- database design
+- basic Python
 
-Here are some ideas to get you started:
+### How to reach me: 
+https://t.me/barinovah
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
